@@ -16,14 +16,14 @@ Installation
 ------------
 This is a CommonJS component only (to be used with something like Webpack or Browserify)
 ```
-npm install --save react-chartjs
+npm install --save rc-chartjs
 ```
 You must also include [chart.js](https://www.npmjs.com/package/chart.js) and [React](https://www.npmjs.com/package/react) as dependencies.
 
 Example Usage
 -------------
 ```
-var LineChart = require("react-chartjs").Line;
+var LineChart = require("rc-chartjs").Line;
 
 var MyComponent = React.createClass({
   render: function() {
@@ -41,10 +41,4 @@ Chart References
 ----------------
 The ```canvas``` element can be retrieved using ```getCanvas``` and the ```chartjs object``` can be retrieved using ```getChart```.
 
-
-### Other React projects that may interest you
-
-* [jhudson8/react-mixin-manager](https://github.com/jhudson8/react-mixin-manager)
-* [jhudson8/react-backbone](https://github.com/jhudson8/react-backbone)
-* [jhudson8/react-events](https://github.com/jhudson8/react-events)
 

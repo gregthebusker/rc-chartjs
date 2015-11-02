@@ -1,6 +1,6 @@
 {
-  "name": "react-chartjs",
-  "version": "0.6.0",
+  "name": "rc-chartjs",
+  "version": "0.7.0",
   "description": "react charting components using the chartjs lib",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jhudson8/react-chartjs"
+    "url": "https://github.com/gregthebusker/rc-chartjs"
   },
   "keywords": [
     "react",
@@ -20,12 +20,12 @@
     "graph",
     "chartjs"
   ],
-  "author": "Joe Hudson",
+  "author": "Greg Schechter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jhudson8/react-chartjs/issues"
+    "url": "https://github.com/gregthebusker/rc-chartjs/issues"
   },
-  "homepage": "https://github.com/jhudson8/react-chartjs",
+  "homepage": "https://github.com/gregthebusker/rc-chartjs",
   "peerDependencies": {
     "react": "*",
     "react-dom": "*",

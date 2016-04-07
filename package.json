@@ -34,7 +34,7 @@
   "devDependencies": {
     "chart.js": "^1.0.2",
     "mocha": "^2.3.3",
-    "react": "^0.14.1",
+    "react": "^15.0.0",
     "react-dom": "^0.14.4",
     "uglify-js": "^2.4.16",
     "webpack": "^1.12.9"

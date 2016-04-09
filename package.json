@@ -29,7 +29,7 @@
   "peerDependencies": {
     "react": "*",
     "react-dom": "*",
-    "chart.js": "*"
+    "chart.js": "2.0.0"
   },
   "devDependencies": {
     "chart.js": "^1.0.2",
